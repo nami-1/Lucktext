@@ -23,3 +23,4 @@ Console.WriteLine($"Hej du! {name} är {age} gammal, och har spelat mycket {spor
 
 Console.ReadLine();
 
+Console.WriteLine("Goodbye");
